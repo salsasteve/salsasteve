@@ -23,6 +23,7 @@ Exploring new cultures and rhythms, one country at a time.
 - France
 - England
 - Italy
+- Hong Kong
 
 ## 📌 Current Endeavors:
 
