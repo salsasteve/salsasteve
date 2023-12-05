@@ -34,7 +34,7 @@ Exploring new cultures and rhythms, one country at a time.
 - 💬 **Ask me about:** Data engineering and machine learning solutions for retail - I love discussing optimized data pipelines and predictive analytics.
 - 📫 **How to reach me:** Shoot an email to elmanstevelaguna@gmail.com, or connect with me on [LinkedIn](https://linkedin.com/in/salsasteve).
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I spent 6 months backpacking across the vibrant landscapes and cultures of South East Asia. One of my goals in life is to dance Salsa in every country.
+- ⚡ **Fun fact:** I spent 6 months backpacking across the vibrant landscapes and cultures of Asia. One of my goals in life is to dance Salsa in every country.
 
 ## Connect 🤝
 I am always keen on discussing tech, dance, and travel. Check out my [GitHub](https://github.com/salsasteve) to see my latest projects. Hit me up!
