@@ -1,11 +1,11 @@
-# ML Ops Engineer aka SalsaSteve 🕺💻
+# Senior Software Engineer aka SalsaSteve 🕺💻
 
 Hello! I am a software engineer who loves salsa dancing, diving into machine learning, working on embedded systems, and traveling the globe. 🌎
 
 ## Expertise 🛠️
 - **Machine Learning:** Extracting insights from data.
 - **Embedded Systems:** Bridging the physical and digital worlds.
-- **Data Engineering:** Crafting robust data pipelines.
+- **Software Engineering:** Crafting robust data-driven software.
 
 ## Travels 🌐
 Exploring new cultures and rhythms, one country at a time.
