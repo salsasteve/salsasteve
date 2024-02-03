@@ -1,4 +1,4 @@
-# Senior Software Engineer aka SalsaSteve 🕺💻
+# SalsaSteve 🕺💻
 
 Hello! I am a software engineer who loves salsa dancing, diving into machine learning, working on embedded systems, and traveling the globe. 🌎
 
